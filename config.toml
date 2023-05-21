@@ -1,0 +1,5 @@
+theme = "solarized_light"
+
+[keys.normal]
+"A-k" = "expand_selection"
+"A-j" = "shrink_selection"
